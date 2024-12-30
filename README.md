@@ -1,6 +1,6 @@
-# SpeedChronicle  
+# NetPulse  
 
-**SpeedChronicle** is a lightweight tool that periodically measures your internet speed using a cron job and stores the results locally. You can view the logged data either via the command-line interface or in your browser, ensuring you always have a clear view of your internet performance history.
+**NetPulse** is a lightweight tool that periodically measures your internet speed using a cron job and stores the results locally. You can view the logged data either via the command-line interface or in your browser, ensuring you always have a clear view of your internet performance history.
 
 ## Features
 
